@@ -7,3 +7,13 @@ body{
 .container-fluid{
     background: #374e62;
 }
+
+/* tablet*/
+@media only screen and (max-device-width:760px){
+  .mobile{
+     display: none; 
+  }
+  .jumbotron{
+    display: none;
+  }
+}
