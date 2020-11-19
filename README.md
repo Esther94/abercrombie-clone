@@ -3,7 +3,7 @@ This project is to clone abercrombie website.
 
 ## 
 # Image
-![welcome interface.](./asset/images/A&F screenshot.PNG "This is the Homepage outlook")
+![welcome interface.](asset/images/A&Fscreenshot.PNG) "This is the cloned abercrombie website")
 
 # Built With
 * HTML
