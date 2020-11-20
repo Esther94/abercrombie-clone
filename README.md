@@ -27,7 +27,7 @@ This project is to clone abercrombie website.
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo
+# Live Demo (https://raw.githack.com/Esther94/abercrombie-clone/main/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
