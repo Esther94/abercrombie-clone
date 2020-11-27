@@ -7,11 +7,17 @@ body{
 .container-fluid{
     background: #374e62;
 }
+.nav-menuu{
+  display: flex;
+  padding:5px;
+  font-size: smaller;
+  color: #253746;
+}
 
 .nav-icon{
   display: grid;
    grid-gap:2rem; grid-template-columns: repeat(4, 1fr); 
-   margin-left: 35rem;
+   /* margin-left: 35rem; */
 }
 
 .dropbtn {
@@ -20,15 +26,55 @@ body{
   font-size: 16px;
   border: none;
 }
-
   
 .nav-linkk{
-  font-size: 11px; padding-left: 37rem;
+  font-size: 11px; 
+  padding-left: 37rem;
 }
 
 .text-white{
   font-size: 11px; 
   text-decoration: underline;
+}
+.dropbtn-dropdown-men,
+.dropbtn-dropbtn-women,
+.dropbtn-dropdown-kids,
+.dropbtn-dropdown-jeans,
+.dropbtn-dropdown-fierce,
+.dropbtn-drop-down-gift-g,
+.dropbtn-dropdown-aboutus{
+color: #253746;
+padding-left:1rem ;
+}
+
+.p-container{
+  align-items: center;
+  padding-top: 7rem;
+}
+
+.btn-gft-gd{
+  padding-left: 2rem;
+}
+
+.gift-guide-dpdwn-text{
+  font-size: 3rem;
+}
+
+.gift-guide-btn{
+  background: transparent;
+  padding: 1rem 4rem;
+  color: white;
+  font-size: 14px;
+  border-color: #fff;
+}
+
+.gift-guide-btn:hover{
+  background: white;
+  color: #253746;
+}
+
+.icons-nav{
+margin-left: 45rem;
 }
 
 .dropdown {
@@ -52,6 +98,11 @@ body{
   padding-left: 5rem
 }
 
+.dropbtn{
+  color: #253746;
+  padding-right: 0.5rem;
+  background: transparent;
+}
 .dropdown-content {
   display: none;
   position: absolute;
@@ -59,6 +110,10 @@ body{
   min-width: 160px;
   /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
   z-index: 1;
+}
+
+.nav-collapse{
+  padding-right: 1rem;
 }
 
 .dropdown-content a {
@@ -81,9 +136,22 @@ body{
   text-align:start;
 }
 
-.bold{
-  font-size: larger;
-  color: black;
+.nav-img1{
+  width:30rem;
+  height: 35rem;
+}
+
+.fierce-text{
+  font-size:20px ;
+}
+
+.fierce-text-bold{
+  font-size: 35px;
+  font-weight: 1000;
+}
+
+.fierce-text-fami{
+  font-size: 20px;
 }
 
 .bg-title{
