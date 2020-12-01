@@ -34,8 +34,12 @@ body{
 
 .text-white{
   font-size: 11px; 
+}
+
+.see-detail{
   text-decoration: underline;
 }
+
 .dropbtn-dropdown-men,
 .dropbtn-dropbtn-women,
 .dropbtn-dropdown-kids,
